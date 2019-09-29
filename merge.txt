@@ -1,2 +1,2 @@
-sout("before")
 int d = 1;
+sout("after")
